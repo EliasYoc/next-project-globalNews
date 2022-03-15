@@ -3,7 +3,7 @@
 
 Clonar el proyecto
 
-###Registrarse a news API 
+### Registrarse a news API 
 
 crea una cuenta en https://newsapi.org/ para contar con las API KEY que añadiras a las variables de entorno 👇
 
