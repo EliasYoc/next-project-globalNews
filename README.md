@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-Después de clonar el proyecto, instala las dpendencias
+Después de clonar el proyecto, instala las dependencias
 `npm i`
  
 ### Registrarse a news API 
