@@ -1,8 +1,10 @@
 
 ## Getting Started
 
-Clonar el proyecto
+Clonar el proyecto e instalar dpendencias
 
+`npm i`
+ 
 ### Registrarse a news API 
 
 crea una cuenta en https://newsapi.org/ para contar con las API KEY que añadiras a las variables de entorno 👇
